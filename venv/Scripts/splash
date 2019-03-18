@@ -1,0 +1,4 @@
+#!C:\Users\PhuNHb\PycharmProjects\Crawl\venv\Scripts\python.exe
+
+from splash.server import main
+main()

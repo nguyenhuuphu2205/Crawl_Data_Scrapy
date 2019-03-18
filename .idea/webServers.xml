@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b326bd16-1023-4ac9-b30b-52e05708d16a" name="docker" url="http://10.2.75.224">
+        <fileTransfer host="10.2.75.224" port="8509" rootFolder="/home/ubuntu/crawldata/Crawl" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="8509" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
